@@ -108,7 +108,7 @@
 
 ### Hasil
 - Hasil Kode
-![Hasil](img/ss.jpg)>
+![Hasil](img/ss.png)>
 
 - Gambar
 ![Gambar](img/Delfian.jpg)>
